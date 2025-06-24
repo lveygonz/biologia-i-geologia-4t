@@ -4,7 +4,6 @@ plugins:
   - jekyll-remote-theme
 title: "Biologia i Geologia 4"
 description: "A veure..."
-color_scheme: light
 callouts:
   warning:
     title: Warning
