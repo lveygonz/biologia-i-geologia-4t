@@ -1,7 +1,6 @@
 ---
-title: "Situacions d'aprenentatge"
-description: "Not yet"
-nav_order: 3
+title: Situacions d'aprenentatge
+nav_order: 2
 ---
 
 - ### Descobrint els límits entre plaques
