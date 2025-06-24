@@ -2,6 +2,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+mermaid:
+  version: "9.1.3"
+
 title: "Biologia i Geologia 4"
 description: "A veure..."
 callouts:
