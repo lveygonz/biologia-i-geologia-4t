@@ -1,8 +1,7 @@
 ---
 title: "Projecte de recerca"
-description: "Una ampliació de la matèria basada en els teus interessos personals"
-nav_order: 1
 ---
+Una ampliació de la matèria basada en els teus interessos personals
 
 # Què aprendràs?
 L'objectiu d'aquest model és desenvolupar una recerca bibliogràfica, partint del teus interessos, que amplii aquest curs de forma invidualitzada. Per decidir la temàtica del projecte, només hi ha dues pautes:
