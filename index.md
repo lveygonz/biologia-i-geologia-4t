@@ -9,7 +9,7 @@ nav_order: 1
 
 
 #### **Sabers**
-Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà". No tinc molt clar els motius, potser és per extensió del curs de 3r. A 4t, tot i que de vegades s'usarà la nostra espècie com a context, no s'estudia el *cos humà*. Dit això, aquí teniu els blocs de sabers, aka "continguts" que formen part del curs:
+Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà", particularment des d'un punt de vista anatòmic o fisiològic. Tot i que de vegades s'usarà la nostra espècie com a context, no estudiarem el *cos humà* des d'aquesta perpectiva. L'optativa tracta de conceptes més tranversals i fonamentals, que s'agrupen en diferents blocs de sabers, aka "continguts":
 - *Projecte científic:* El primer (el d'enmig i el del final) i més important, que ocuparà la totalitat del curs. Aquí posarem en pràctica destresses i estratègies característiques de l'actitivitat científica (ex: disseny d'experiments i mètode científic, observació/descripció/interpretació, argumentació, elaboració de models)
   
 - *Geologia*: Analitzarem la tectònica de plaques per interpretar l'estructura i la dinàmica de la geosfera. També farem una anàlisi dels riscos naturals i la seva relació amb els processos geològics externs i interns.
