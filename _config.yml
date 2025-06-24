@@ -8,3 +8,6 @@ callouts:
   warning:
     title: Warning
     color: red
+  highlight:
+    title: 
+    color: green
