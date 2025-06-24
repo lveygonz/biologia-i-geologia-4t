@@ -5,3 +5,7 @@ plugins:
 title: "Biologia i Geologia 4"
 description: "A veure..."
 color_scheme: dark
+callouts:
+  warning:
+    title: Warning
+    color: red
