@@ -9,4 +9,4 @@ nav_order: 3
 - ### Cell divison
 - ### Tree thinking
 - ### Mendelarian
-- ### [Projecte de recerca](pages/learning-scenarios/research-project)
+- ### [Projecte de recerca](pages/learning-scenarios/research-project/)
