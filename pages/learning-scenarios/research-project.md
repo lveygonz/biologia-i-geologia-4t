@@ -1,5 +1,7 @@
 ---
 title: "Projecte de recerca"
+parent: Situacions d'aprenentatge
+
 ---
 Una ampliació de la matèria basada en els teus interessos personals
 
