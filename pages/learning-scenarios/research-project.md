@@ -1,5 +1,5 @@
 ---
-title: "Projecte de recerca"
+title: Projecte de recerca
 parent: Situacions d'aprenentatge
 
 ---
