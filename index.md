@@ -21,3 +21,7 @@ Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà", parti
 
 #### **Avaluació**
 - Hueso/Tieso/Queso/Seso
+
+{: .warning }
+Esto es peligroso.
+
