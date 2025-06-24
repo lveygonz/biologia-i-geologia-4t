@@ -1,6 +1,6 @@
 ---
 title: "Projecte de recerca"
-description: "Una ampliació de la matèria basada en els teus interessos personals
+description: "Una ampliació de la matèria basada en els teus interessos personals"
 nav_order: 1
 ---
 
