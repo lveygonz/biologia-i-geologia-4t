@@ -10,6 +10,7 @@ nav_order: 1
 
 #### **Sabers**
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà", particularment des d'un punt de vista anatòmic o fisiològic. Tot i que de vegades s'usarà la nostra espècie com a context, no estudiarem el *cos humà* des d'aquesta perpectiva. L'optativa tracta de conceptes més tranversals i fonamentals, que s'agrupen en diferents blocs de sabers, aka "continguts":
+
 {: .highlight} 
 Projecte científic: El primer (el d'enmig i el del final) i més important, que ocuparà la totalitat del curs. Aquí posarem en pràctica destresses i estratègies característiques de l'actitivitat científica (ex: disseny d'experiments i mètode científic, observació/descripció/interpretació, argumentació, elaboració de models)
   
