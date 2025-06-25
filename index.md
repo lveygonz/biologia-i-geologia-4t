@@ -66,7 +66,7 @@ radar-beta;
   min 0
 ```
 
-<iframe src="docs/official-curriculum-biologiaigeologia4t.pdf" width="100%" height="600px"></iframe>
+
 
 
 
