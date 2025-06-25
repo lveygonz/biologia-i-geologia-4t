@@ -13,10 +13,12 @@ L'objectiu d'aquest model és desenvolupar una recerca bibliogràfica, partint d
 
 Per altra banda, és imprescindible definir uns **objectius concrets** pel teu projecte: aquest han de ser específics i detallats. Si trobes dificultat per definir-los, pots provar a formular una pregunta (què també ha de ser específica i detallada 😅)
 
+<div align="center">
 ```mermaid
 flowchart TD
-    A[Inicio] --> B[Pas1 1: Definir objectius]
+    A[Triar una temàtica] --> B[Pas1 1: Definir objectius concrets i específics]
     B --> C[Paso 2: Seleccionar fonts d'informació]
     C --> D[Paso 3: Elaboració del treball]
-    D --> E[Fin]
+    D --> E[Presentació/Defensa pública]
 ```
+</div>
