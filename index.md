@@ -21,6 +21,8 @@ Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà", parti
   
 - *Genètica i evolució* : Conceptes bàsics sobre l'herència (ex: genotip/fenotip, al·lel, etc.), patrons herència mendeliana, Integració amb la genètica molecular: àcids nucleics (ADN i ARN), mutacions i expressió gènica, conceptes bàsics sobre evolució, mecanismes evolutius i interpretació de l'evolució biològica.
 
+
+
 #### **Avaluació**
 - Hueso/Tieso/Queso/Seso
 
@@ -37,6 +39,31 @@ graph TD;
     A-->C;
     B-->D;
     C-->D;
+```
+
+## Un altre gràfic
+```mermaid
+radar
+    title Grades
+    indicators
+        Math      100
+        Science   100
+        English   100
+        History   100
+        Geography 100
+        Art       100
+    Alice : 85, 90, 80, 70, 75, 90
+    Bob   : 70, 75, 85, 80, 90, 85
+```
+
+# Un altreee
+```mermaid
+radar-beta;
+  axis m["Math"], s["Science"], e["English"];
+  axis h["History"], g["Geography"], a["Art"];
+  curve a["Alice"]{85, 90, 80, 70, 75, 90};
+  max 100
+  min 0
 ```
 
 
