@@ -8,7 +8,7 @@ nav_order: 1
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
 
-TEST
+GERI
 #### **Sabers**
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà", particularment des d'un punt de vista anatòmic o fisiològic. Tot i que de vegades s'usarà la nostra espècie com a context, no estudiarem el *cos humà* des d'aquesta perpectiva. L'optativa tracta de conceptes més tranversals i fonamentals, que s'agrupen en diferents blocs de sabers, aka "continguts":
 
